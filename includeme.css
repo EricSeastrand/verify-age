@@ -1,0 +1,12 @@
+.birthday-continue-link {
+    display: none;
+}
+
+.birthday-verification-age {
+    font-weight: bold;
+}
+ 
+.birthday-rejected-link {
+    color: red;
+    display: none;
+}
